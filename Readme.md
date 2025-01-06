@@ -2,7 +2,7 @@
 
 Welcome to the **6Companies30Days Challenge**!
 
-This is a 30-day challenge designed to help you enhance your **Data Structures & Algorithms (DSA)** skills and prepare for interviews at top tech companies like **Amazon**, **Microsoft**, **Google**, **Walmart**, **Atlassian**, and **Goldman Sachs**.
+This is a 30-day challenge designed to help you enhance **Data Structures & Algorithms (DSA)** skills and prepare for interviews at top tech companies like **Amazon**, **Microsoft**, **Google**, **Walmart**, **Atlassian**, and **Goldman Sachs**.
 
 ## Challenge Overview
 
